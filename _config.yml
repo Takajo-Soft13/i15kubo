@@ -1,1 +1,5 @@
 theme: jekyll-theme-slate
+title: Github Pages チュードリアル
+description: 自己紹介　久保
+github:
+  is_project_page: false
