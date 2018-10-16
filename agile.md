@@ -10,4 +10,4 @@
   ソフトウェア工学
 
 使用したフリー画像>
-[画像](https://www.pakutaso.com/20181015275post-17515.html)
+[穂高蓮峰](https://www.pakutaso.com/20181015275post-17515.html)
